@@ -1,5 +1,5 @@
 # ETH-dApp
-### About
+
 ### Anyone on the Internet can send you "👋+ messages".
 ### Those data will be stored on the blockchain via an Ethereum smart contract.
 ### Users who wave to you can earn a small amount of ETH from your site if they are lucky 🎉.
